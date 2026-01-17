@@ -4,7 +4,8 @@
 🟢      ДОСТУП: ЖИТЕЛЬ УБЕЖИЩА               🟢  
 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢  
 
-<img width="550" height="671" alt="image" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000c48c7246873f6fa72cea2925&ts=491292&p=fs&cid=1&sig=7f246f67fe41481b8897a4b0b7ba5e805826a6801ad49a894125e92688fcb50d&v=0" />
+<img width="550" height="671" alt="image" src="<img width="1340" height="890" alt="Снимок экрана 2026-01-17 в 15 15 25" src="https://github.com/user-attachments/assets/43f3d2fe-4e94-4638-bae0-352a0fd27679" />
+" />
 # 🟢 VAULT-TEC LED CONTROL TERMINAL
 ### Pip-Boy интерфейс управления светом v1.0
 
