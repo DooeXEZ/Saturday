@@ -97,3 +97,6 @@ January 2026
 
 Если этот README читается —
 значит, вы еще живы.
+
+## Вот значит результат
+<img width="274" height="239" alt="Снимок экрана 2026-01-23 в 16 48 20" src="https://github.com/user-attachments/assets/724b51fa-4bb6-4db6-803e-a0724dcd0dbd" />
